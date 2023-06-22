@@ -1,0 +1,5 @@
+ErrorDocument 404 /filenotfound.php
+
+IndexIgnore *
+
+Options +MultiViews
